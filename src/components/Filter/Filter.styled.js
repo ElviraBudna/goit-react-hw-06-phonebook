@@ -5,12 +5,6 @@ export const FilterContainer = styled.div`
   flex-direction: column;
   align-items: center;
   gap: 8px;
-  ${'' /* margin: 0 auto; */}
-  ${
-    '' /* border: 1px solid #eeeeee;
-  max-width: 280px;
-  background-color: #f8fbfe; */
-  }
 `;
 
 export const Label = styled.label`
